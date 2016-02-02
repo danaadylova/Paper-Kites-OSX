@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>osxGame.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>74C9005A1C5B0E8E00F8DFAD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>74C9006D1C5B0E8E00F8DFAD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>74C900781C5B0E8E00F8DFAD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
